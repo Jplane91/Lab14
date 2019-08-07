@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B1E52925-B61F-4422-A7A7-B3972E97BD88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab14/Bill.cs">
+    <Files>
+      <File FileName="Lab14/Program.cs" Line="13" Column="31" />
+      <File FileName="Lab14/Bill.cs" Line="25" Column="7" />
+      <File FileName="Lab14/TippableBill.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab14" expanded="True">
+            <Node name="Lab14" expanded="True">
+              <Node name="Bill.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab14 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
